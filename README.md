@@ -10,3 +10,5 @@ To contribute:
 4. Submit a pull request
 
 Please follow clean and readable code practices.
+## Bug Reporting
+If you find a bug, please open an issue in this repository describing the problem.
